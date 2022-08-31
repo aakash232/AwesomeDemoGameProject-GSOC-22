@@ -1,7 +1,7 @@
 # Google Summer Of Code 2022 @Catrobat
 ### Awesome Demo Game Project 🎮 
 
-# ⭐⭐🌟⭐⭐ _Alex and the Uncharted Expedition_ ⭐⭐🌟⭐⭐
+# ⭐🌟⭐ _Alex and the Uncharted Expedition_ ⭐🌟⭐
 
 
 ![MainPagea](https://github.com/aakash232/AwesomeDemoGameProject-GSOC-22/blob/main/assets/BGs/WALLPAPER.jpg)

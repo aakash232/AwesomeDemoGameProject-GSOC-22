@@ -52,7 +52,9 @@ Download the desired project file and remix it as you want!
 
 ⭐ **Catrobat community** ⭐
 
->GAME: [Alex and the Uncharted Expedition]( https://share.catrob.at/pocketcode/project/68fead9b-3190-4104-bd1d-fcfdab94e512 )
+>GAME: [Alex and the Uncharted Expedition](https://share.catrob.at/pocketcode/project/68fead9b-3190-4104-bd1d-fcfdab94e512)
+
+>GSoC'22: [Project page](https://summerofcode.withgoogle.com/programs/2022/projects/cFiVMFmu)
 
 >MORE CONTENT: [aakash232](https://share.catrob.at/app/user/2744644f-ad7e-11ec-b953-005056a32daa)
 

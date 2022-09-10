@@ -59,6 +59,6 @@ Download the desired project file and remix it as you want!
 
 ![](https://img.shields.io/badge/-MORE%20CONTENT-blue) [aakash232](https://share.catrob.at/app/user/2744644f-ad7e-11ec-b953-005056a32daa)
 
-![View Count: ](https://komarev.com/ghpvc/?username=aakash232&color=FAC151)
+[![Page View Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faakash232%2Fhit-counter&count_bg=%234E9618&title_bg=%23555555&icon=google.svg&icon_color=%23E7E7E7&title=Viewers&edge_flat=false)](https://hits.seeyoufarm.com)
 
 

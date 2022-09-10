@@ -18,6 +18,7 @@ Treasure hunting has always been among the most-talked themes. Be it for movies,
 ## Game Story 💞
 It all began from the treasure map! Yang the cave-explorer passed onto the scroll of secrets to Alex. Mesmerized with the impending hunt and challenges, our braveheart Alex marks onto the most adventurous treasure hunt ever! Explore fantastic places filled with all manner of monsters, traps, and treasure. We take you on an adventurous journey through _scavenging mines, unforgivable forests, deadly oceans_ and the _uncharted islands_ in search of the greatest treasure ever in the history of hunts! You'll have complete freedom while you navigate the environments and master their secrets. To stay or flee, to kill or spare, the choice is yours and so are the consequences!
 
+## Features 💬
 ● The game spans across four major levels of mines, forests, oceans and the final islands. Each with its own terrifying creatures, traps and challenges.
 
 ● Specific scripting of scenes and sprites in pocket code simplifies the process. Motion handlers, control statements and mathematical functions (random, ceiling, floor, abs etc) help to add descriptive movements for creatures.
@@ -52,7 +53,7 @@ Download the desired project file and remix it as you want!
 
 ⭐ **Catrobat community** ⭐
 
->GAME: [Alex and the Uncharted Expedition](https://share.catrob.at/pocketcode/project/68fead9b-3190-4104-bd1d-fcfdab94e512)
+>GAME: [Alex and the Uncharted Expedition](https://share.catrob.at/pocketcode/project/3c612b3c-c1ce-4d95-92f9-2d8a2f7d5a31)
 
 >GSoC'22: [Project page](https://summerofcode.withgoogle.com/programs/2022/projects/cFiVMFmu)
 

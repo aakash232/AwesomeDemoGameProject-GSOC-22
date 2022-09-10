@@ -53,9 +53,12 @@ Download the desired project file and remix it as you want!
 
 ⭐ **Catrobat community** ⭐
 
->GAME: [Alex and the Uncharted Expedition](https://share.catrob.at/pocketcode/project/3c612b3c-c1ce-4d95-92f9-2d8a2f7d5a31)
+![](https://img.shields.io/badge/-Game-green) [Alex and the Uncharted Expedition](https://share.catrob.at/pocketcode/project/3c612b3c-c1ce-4d95-92f9-2d8a2f7d5a31)
 
->GSoC'22: [Project page](https://summerofcode.withgoogle.com/programs/2022/projects/cFiVMFmu)
+![](https://img.shields.io/badge/-GSoC'22-orange) [Project page](https://summerofcode.withgoogle.com/programs/2022/projects/cFiVMFmu)
 
->MORE CONTENT: [aakash232](https://share.catrob.at/app/user/2744644f-ad7e-11ec-b953-005056a32daa)
+![](https://img.shields.io/badge/-MORE%20CONTENT-blue) [aakash232](https://share.catrob.at/app/user/2744644f-ad7e-11ec-b953-005056a32daa)
+
+![View Count: ](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)
+
 
